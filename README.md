@@ -3,7 +3,7 @@
 </p>
 
 
-
+<p align="center" ><img alt="Brute-Jack" src="https://github.com/Thorkrz/brute-jack/blob/main/jack_logo.jpg"width=500></p>
 <h1 align="center">Jack Estripador</h1>
 <p align="center">
 
