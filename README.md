@@ -47,6 +47,8 @@ $ python3 menu.py
 💻 Arch Linux
 $ pacman -Syyu git python -y
 $ pip install rich 
+$ pip install pikepdf 
+$ pip install zipfile
 $ git clone https://github.com/Thorkrz/brute-jack
 $ cd brute-jack
 $ python3 menu.py
@@ -54,6 +56,8 @@ $ python3 menu.py
 💻 OpenSUSE
 $ zypper install python git -y
 $ pip install rich 
+$ pip install pikepdf 
+$ pip install zipfile
 $ git clone https://github.com/Thorkrz/brute-jack
 $ cd brute-jack
 $ python3 menu.py
