@@ -33,18 +33,13 @@ Para você executar o **Jack Estripador** é nescessario ter o python instalado 
 Depois de baixar e instalar o python você pode baixar o **Jack Estripador** diretamente do github com os seguintes comandos:
 
 ```
-💻 Termux
-$ pkg upgrade && pkg update -y
-$ pkg install git python -y
-$ pip install rich 
-$ git clone https://github.com/Thorkrz/brute-jack
-$ cd brute-jack
-$ python3 menu.py
 
 💻 Debian
 $ apt upgrade && apt update -y
 $ apt install git python -y
 $ pip install rich 
+$ pip install pikepdf 
+$ pip install zipfile
 $ git clone https://github.com/Thorkrz/brute-jack
 $ cd brute-jack
 $ python3 menu.py
@@ -62,7 +57,14 @@ $ pip install rich
 $ git clone https://github.com/Thorkrz/brute-jack
 $ cd brute-jack
 $ python3 menu.py
-```
+``` 
+
+<p align="center" >
+  <h2 align="center">🚀 Running</h2>
+  <p align="center" ><img alt="Brute-Jack" src="https://github.com/Thorkrz/brute-jack/blob/main/runscript1.jpg"width=500>
+  <img alt="Brute-Jack" src="https://github.com/Thorkrz/brute-jack/blob/main/runscript2.jpg"width=500>
+
+</p>
 
 
 
