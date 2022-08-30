@@ -59,7 +59,7 @@ def Decrypt_hash():
              print(" ")
              exit(0) 
         else:
-                console.print(f"[red][-]Não é essa: {word}[/] \n[green](Caso o programa pare é devido a hash não está na wordlist)[/]")
+                console.print(f"[red][-]Não é essa: {word}[/] ")
                     
 
 
