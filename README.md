@@ -10,7 +10,8 @@
   
 
   <p align="center">
-    Este script serve para força arquivos e quebrar a senha.
+    Este script serve para força arquivos e quebrar a senha.<br>
+   <strong>(AVISO: NÃO ME RESPONSABILIZO POR SUAS AÇÕES!!)</strong>
   </p>
 </p> 
 
