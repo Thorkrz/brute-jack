@@ -3,8 +3,12 @@ from source import crack_pdf,crack_zip,decrypt_md5
 import os
 from time import sleep
 
-os.system("pip install pikepdf") 
-os.system("pip install zipfile")
+try:
+    os.system("pip install rich")
+    os.system("pip install pikepdf") 
+    os.system("pip install zipfile")
+except: 
+    continue
 
 def escreval(txt): 
     tam = len(txt) + 6 
