@@ -19,7 +19,7 @@
 
 
 <p align="center">
-  <a href="https://www.youtube.com/channel/UCwaJ7N2g1yP8bqzubB6AxNw">Youtube Channel</a> •
+  <a href="https://www.youtube.com/channel/UCtdE8vbIezT78YCBvHzRWDw">Youtube Channel</a> •
   <a href="https://github.com/Thorkrz">Author</a> 
 </p>
 
